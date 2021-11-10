@@ -3,7 +3,7 @@
 </p>
 
 ![img](https://img.shields.io/youtube/channel/subscribers/UCarAH5bsx6jKAD0B3dF4Guw?label=YouTube%20Subscribers&style=social) 
-![img](https://img.shields.io/youtube/channel/views/UCarAH5bsx6jKAD0B3dF4Guw?label=Total%20views&style=social) 
+![img](https://img.shields.io/youtube/channel/views/UCarAH5bsx6jKAD0B3dF4Guw?label=Total%20Views&style=social) 
 ![twitter-follower](https://img.shields.io/twitter/follow/KeylaDoloresM?style=social) 
 ![](https://img.shields.io/badge/Web%20Page-www.keyladolores.com-ff69b4)
 <img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=kdolores.kdolores" /> 
