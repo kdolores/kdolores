@@ -70,18 +70,4 @@ am familiar with including **Azure Data Factory**, **Data Storage**, **Synapse A
 
 ---
 
-## My Github Stats 📊
-</br>
-
-<a href="https://github.com/rishabkumar7/rishabkumar7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdolores&hide=java,html" />
-</a>
-<a href="https://github.com/kdolores/kdolores">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdolores&show_icons=true&line_height=27&count_private=true" alt="Keyla's GitHub Stats" />
-</a>
----
-
-<br/>
-
-
 
